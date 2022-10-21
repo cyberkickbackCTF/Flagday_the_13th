@@ -12,6 +12,6 @@ Let me know if you have any troubles!
 
 We finally made it to the light at the end of the Bethel cybersecurity tunnel!! woot woot
 
-- Check the GitHub for the directions and location to get into it the other way and hopefully that will work with the encrypted password.
+- Check the rest of GitHub for the directions and location to get into it the other way and hopefully that will work with the encrypted password.
 
-https://github.com/cyberkickbackCTF/Nicks_Flagday
+theROOTofthePRoblem......
