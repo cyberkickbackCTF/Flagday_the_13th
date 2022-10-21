@@ -6,6 +6,8 @@ As a fall back, you simply need to decoyer the directory path and then find the 
 
 Use the correct cipher and it should show you to the root password to let you edit what you need.
 
+REMEMBER TO SSH into the machine as it is easiest and should be set up still! Just double check you have the right IP!!
+
 Let me know if you have any troubles!
 
 We finally made it to the light at the end of the Bethel cybersecurity tunnel!! woot woot
